@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Action Mode Context Menu</string>
+    <string name="one">one</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="show_action_mode_menu">show action mode menu</string>
+</resources>
